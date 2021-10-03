@@ -1,16 +1,12 @@
-# alcool_gasolina
+# Alcool ou Gasolina
 
-A new Flutter project.
+This app it's a simple app to help you choose between alcool or gasoline based on the price of the gasoline and the price of the alcool. It's a simple app that uses a simple logo, two text fields and a button that calculate and show the best option.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+<img src="./example/Alcool ou Gasolina.png" width="200">
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Mobile
+![Flutter Logo in a shields.io badge](https://img.shields.io/badge/Flutter-gray.svg?logo=flutter&style=for-the-badge&color=02569B&logoColor=white)
